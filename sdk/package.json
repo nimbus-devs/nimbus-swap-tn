@@ -1,15 +1,15 @@
 {
-  "_from": "@uniswap/sdk@3.0.3",
-  "_id": "@uniswap/sdk@3.0.3",
+  "_from": "@nimbus/sdk@3.0.3",
+  "_id": "@nimbus/sdk@3.0.3",
   "_inBundle": false,
   "_integrity": "sha512-t4s8bvzaCFSiqD2qfXIm3rWhbdnXp+QjD3/mRaeVDHK7zWevs6RGEb1ohMiNgOCTZANvBayb4j8p+XFdnMBadQ==",
-  "_location": "/@uniswap/sdk",
+  "_location": "/@nimbus/sdk",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "@uniswap/sdk@3.0.3",
-    "name": "@uniswap/sdk",
+    "raw": "@nimbus/sdk@3.0.3",
+    "name": "@nimbus/sdk",
     "escapedName": "@uniswap%2fsdk",
     "scope": "@uniswap",
     "rawSpec": "3.0.3",
@@ -19,16 +19,16 @@
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "https://registry.npmjs.org/@uniswap/sdk/-/sdk-3.0.3.tgz",
+  "_resolved": "https://registry.npmjs.org/@nimbus/sdk/-/sdk-3.0.3.tgz",
   "_shasum": "8201c7c72215d0030cb99acc7e661eff895c18a9",
-  "_spec": "@uniswap/sdk@3.0.3",
+  "_spec": "@nimbus/sdk@3.0.3",
   "_where": "D:\\MyDocuments\\PROJECTS\\NIMBUS\\NimbusSwap\\nimbus-interface",
   "bugs": {
     "url": "https://github.com/Uniswap/uniswap-sdk/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
-    "@uniswap/v2-core": "^1.0.0",
+    "@nimbus/v2-core": "^1.0.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
@@ -63,7 +63,7 @@
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/sdk.esm.js",
-  "name": "@uniswap/sdk",
+  "name": "@nimbus/sdk",
   "peerDependencies": {
     "@ethersproject/address": "^5.0.0-beta",
     "@ethersproject/contracts": "^5.0.0-beta",

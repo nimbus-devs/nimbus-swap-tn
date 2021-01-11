@@ -1,15 +1,15 @@
 {
-  "_from": "@uniswap/governance@^1.0.2",
-  "_id": "@uniswap/governance@1.0.2",
+  "_from": "@nimbus/governance@^1.0.2",
+  "_id": "@nimbus/governance@1.0.2",
   "_inBundle": false,
   "_integrity": "sha512-L7BzdI/asAINB2F6EvJuQcg5YhykNeEfZxJrn2RPIVvx+9A9u+opDuqnBK4SYnanrsr3UEX1NwWXwDHmyw2TjQ==",
-  "_location": "/@uniswap/governance",
+  "_location": "/@nimbus/governance",
   "_phantomChildren": {},
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "@uniswap/governance@^1.0.2",
-    "name": "@uniswap/governance",
+    "raw": "@nimbus/governance@^1.0.2",
+    "name": "@nimbus/governance",
     "escapedName": "@uniswap%2fgovernance",
     "scope": "@uniswap",
     "rawSpec": "^1.0.2",
@@ -19,9 +19,9 @@
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "https://registry.npmjs.org/@uniswap/governance/-/governance-1.0.2.tgz",
+  "_resolved": "https://registry.npmjs.org/@nimbus/governance/-/governance-1.0.2.tgz",
   "_shasum": "7371ab54dea9a5c045275001e2d5325ff2c11a93",
-  "_spec": "@uniswap/governance@^1.0.2",
+  "_spec": "@nimbus/governance@^1.0.2",
   "_where": "D:\\MyDocuments\\PROJECTS\\NIMBUS\\NimbusSwap\\nimbus-interface",
   "author": {
     "name": "Noah Zinsmeister"
@@ -32,7 +32,7 @@
   "devDependencies": {
     "@types/chai": "^4.2.12",
     "@types/mocha": "^8.0.3",
-    "@uniswap/v2-core": "^1.0.1",
+    "@nimbus/v2-core": "^1.0.1",
     "chai": "^4.2.0",
     "ethereum-waffle": "^3.1.0",
     "ethereumjs-util": "^7.0.4",
@@ -47,7 +47,7 @@
     "build"
   ],
   "license": "MIT",
-  "name": "@uniswap/governance",
+  "name": "@nimbus/governance",
   "scripts": {
     "compile": "waffle",
     "lint": "prettier ./test/**/*.ts --check",

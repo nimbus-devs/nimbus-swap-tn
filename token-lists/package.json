@@ -1,15 +1,15 @@
 {
-  "_from": "@uniswap/token-lists@^1.0.0-beta.19",
-  "_id": "@uniswap/token-lists@1.0.0-beta.19",
+  "_from": "@nimbus/token-lists@^1.0.0-beta.19",
+  "_id": "@nimbus/token-lists@1.0.0-beta.19",
   "_inBundle": false,
   "_integrity": "sha512-19V3KM7DAe40blWW1ApiaSYwqbq0JTKMO3yChGBrXzQBl+BoQZRTNZ4waCyoZ5QM45Q0Mxd6bCn6jXcH9G1kjg==",
-  "_location": "/@uniswap/token-lists",
+  "_location": "/@nimbus/token-lists",
   "_phantomChildren": {},
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "@uniswap/token-lists@^1.0.0-beta.19",
-    "name": "@uniswap/token-lists",
+    "raw": "@nimbus/token-lists@^1.0.0-beta.19",
+    "name": "@nimbus/token-lists",
     "escapedName": "@uniswap%2ftoken-lists",
     "scope": "@uniswap",
     "rawSpec": "^1.0.0-beta.19",
@@ -19,9 +19,9 @@
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "https://registry.npmjs.org/@uniswap/token-lists/-/token-lists-1.0.0-beta.19.tgz",
+  "_resolved": "https://registry.npmjs.org/@nimbus/token-lists/-/token-lists-1.0.0-beta.19.tgz",
   "_shasum": "5256db144fba721a6233f43b92ffb388cbd58327",
-  "_spec": "@uniswap/token-lists@^1.0.0-beta.19",
+  "_spec": "@nimbus/token-lists@^1.0.0-beta.19",
   "_where": "D:\\MyDocuments\\PROJECTS\\NIMBUS\\NimbusSwap\\nimbus-interface",
   "author": {
     "name": "Moody Salem"
@@ -55,7 +55,7 @@
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/token-lists.esm.js",
-  "name": "@uniswap/token-lists",
+  "name": "@nimbus/token-lists",
   "peerDependencies": {},
   "prettier": {
     "printWidth": 80,
