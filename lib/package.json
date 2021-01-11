@@ -1,15 +1,15 @@
 {
-  "_from": "@nimbus/lib@1.1.1",
-  "_id": "@nimbus/lib@1.1.1",
+  "_from": "nimbus-swap-tn/lib@1.1.1",
+  "_id": "nimbus-swap-tn/lib@1.1.1",
   "_inBundle": false,
   "_integrity": "sha512-2yK7sLpKIT91TiS5sewHtOa7YuM8IuBXVl4GZv2jZFys4D2sY7K5vZh6MqD25TPA95Od+0YzCVq6cTF2IKrOmg==",
-  "_location": "/@nimbus/lib",
+  "_location": "/nimbus-swap-tn/lib",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "@nimbus/lib@1.1.1",
-    "name": "@nimbus/lib",
+    "raw": "nimbus-swap-tn/lib@1.1.1",
+    "name": "nimbus-swap-tn/lib",
     "escapedName": "@uniswap%2flib",
     "scope": "@uniswap",
     "rawSpec": "1.1.1",
@@ -17,15 +17,15 @@
     "fetchSpec": "1.1.1"
   },
   "_requiredBy": [
-    "/@nimbus/v2-periphery"
+    "/nimbus-swap-tn/v2-periphery"
   ],
-  "_resolved": "https://registry.npmjs.org/@nimbus/lib/-/lib-1.1.1.tgz",
+  "_resolved": "https://registry.npmjs.org/nimbus-swap-tn/lib/-/lib-1.1.1.tgz",
   "_shasum": "0afd29601846c16e5d082866cbb24a9e0758e6bc",
-  "_spec": "@nimbus/lib@1.1.1",
+  "_spec": "nimbus-swap-tn/lib@1.1.1",
   "_where": "D:\\MyDocuments\\PROJECTS\\NIMBUS\\NimbusSwap\\nimbus-interface\\node_modules\\@uniswap\\v2-periphery",
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "[![Actions Status](https://github.com/Uniswap/uniswap-lib/workflows/CI/badge.svg)](https://github.com/Uniswap/uniswap-lib/actions) [![npm](https://img.shields.io/npm/v/@nimbus/lib)](https://unpkg.com/@nimbus/lib@latest/)",
+  "description": "[![Actions Status](https://github.com/Uniswap/uniswap-lib/workflows/CI/badge.svg)](https://github.com/Uniswap/uniswap-lib/actions) [![npm](https://img.shields.io/npm/v/nimbus-swap-tn/lib)](https://unpkg.com/nimbus-swap-tn/lib@latest/)",
   "devDependencies": {
     "@types/chai": "^4.2.11",
     "@types/mocha": "^7.0.2",
@@ -47,7 +47,7 @@
     "!contracts/test"
   ],
   "license": "GPL-3.0-or-later",
-  "name": "@nimbus/lib",
+  "name": "nimbus-swap-tn/lib",
   "scripts": {
     "clean": "rimraf ./build/",
     "compile": "waffle .waffle.json",

@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0;
 
-import '@nimbus/v2-core/contracts/interfaces/IUniswapV2Pair.sol';
+import 'nimbus-swap-tn/v2-core/contracts/interfaces/IUniswapV2Pair.sol';
 
 import "./SafeMath.sol";
 

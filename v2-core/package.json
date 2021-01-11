@@ -1,15 +1,15 @@
 {
-  "_from": "@nimbus/v2-core@1.0.0",
-  "_id": "@nimbus/v2-core@1.0.0",
+  "_from": "nimbus-swap-tn/v2-core@1.0.0",
+  "_id": "nimbus-swap-tn/v2-core@1.0.0",
   "_inBundle": false,
   "_integrity": "sha512-BJiXrBGnN8mti7saW49MXwxDBRFiWemGetE58q8zgfnPPzQKq55ADltEILqOt6VFZ22kVeVKbF8gVd8aY3l7pA==",
-  "_location": "/@nimbus/v2-core",
+  "_location": "/nimbus-swap-tn/v2-core",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "@nimbus/v2-core@1.0.0",
-    "name": "@nimbus/v2-core",
+    "raw": "nimbus-swap-tn/v2-core@1.0.0",
+    "name": "nimbus-swap-tn/v2-core",
     "escapedName": "@uniswap%2fv2-core",
     "scope": "@uniswap",
     "rawSpec": "1.0.0",
@@ -18,12 +18,12 @@
   },
   "_requiredBy": [
     "#DEV:/",
-    "/@nimbus/sdk",
-    "/@nimbus/v2-periphery"
+    "/nimbus-swap-tn/sdk",
+    "/nimbus-swap-tn/v2-periphery"
   ],
-  "_resolved": "https://registry.npmjs.org/@nimbus/v2-core/-/v2-core-1.0.0.tgz",
+  "_resolved": "https://registry.npmjs.org/nimbus-swap-tn/v2-core/-/v2-core-1.0.0.tgz",
   "_shasum": "e0fab91a7d53e8cafb5326ae4ca18351116b0844",
-  "_spec": "@nimbus/v2-core@1.0.0",
+  "_spec": "nimbus-swap-tn/v2-core@1.0.0",
   "_where": "D:\\MyDocuments\\PROJECTS\\NIMBUS\\NimbusSwap\\nimbus-interface",
   "bugs": {
     "url": "https://github.com/Uniswap/uniswap-v2-core/issues"
@@ -53,7 +53,7 @@
   ],
   "homepage": "https://uniswap.org",
   "license": "GPL-3.0-or-later",
-  "name": "@nimbus/v2-core",
+  "name": "nimbus-swap-tn/v2-core",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Uniswap/uniswap-v2-core.git"

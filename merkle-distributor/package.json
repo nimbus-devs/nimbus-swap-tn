@@ -1,15 +1,15 @@
 {
-  "_from": "@nimbus/merkle-distributor@1.0.1",
-  "_id": "@nimbus/merkle-distributor@1.0.1",
+  "_from": "nimbus-swap-tn/merkle-distributor@1.0.1",
+  "_id": "nimbus-swap-tn/merkle-distributor@1.0.1",
   "_inBundle": false,
   "_integrity": "sha512-5gDiTI5hrXIh5UWTrxKYjw30QQDnpl8ckDSpefldNenDlYO1RKkdUYMYpvrqGi2r7YzLYTlO6+TDlNs6O7hDRw==",
-  "_location": "/@nimbus/merkle-distributor",
+  "_location": "/nimbus-swap-tn/merkle-distributor",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "@nimbus/merkle-distributor@1.0.1",
-    "name": "@nimbus/merkle-distributor",
+    "raw": "nimbus-swap-tn/merkle-distributor@1.0.1",
+    "name": "nimbus-swap-tn/merkle-distributor",
     "escapedName": "@uniswap%2fmerkle-distributor",
     "scope": "@uniswap",
     "rawSpec": "1.0.1",
@@ -19,9 +19,9 @@
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "https://registry.npmjs.org/@nimbus/merkle-distributor/-/merkle-distributor-1.0.1.tgz",
+  "_resolved": "https://registry.npmjs.org/nimbus-swap-tn/merkle-distributor/-/merkle-distributor-1.0.1.tgz",
   "_shasum": "dc3d911f65a860fc3f0cae074bdcd08ed6a27a4d",
-  "_spec": "@nimbus/merkle-distributor@1.0.1",
+  "_spec": "nimbus-swap-tn/merkle-distributor@1.0.1",
   "_where": "D:\\MyDocuments\\PROJECTS\\NIMBUS\\NimbusSwap\\nimbus-interface",
   "author": {
     "name": "Moody Salem"
@@ -58,7 +58,7 @@
     "uniswap",
     "erc20"
   ],
-  "name": "@nimbus/merkle-distributor",
+  "name": "nimbus-swap-tn/merkle-distributor",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Uniswap/merkle-distributor.git"

@@ -1,7 +1,7 @@
 pragma solidity =0.6.6;
 
-import '@nimbus/v2-core/contracts/interfaces/IUniswapV2Factory.sol';
-import '@nimbus/lib/contracts/libraries/TransferHelper.sol';
+import 'nimbus-swap-tn/v2-core/contracts/interfaces/IUniswapV2Factory.sol';
+import 'nimbus-swap-tn/lib/contracts/libraries/TransferHelper.sol';
 
 import './libraries/UniswapV2Library.sol';
 import './interfaces/IUniswapV2Router01.sol';

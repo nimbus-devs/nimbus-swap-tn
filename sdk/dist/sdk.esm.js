@@ -10,7 +10,7 @@ import { keccak256, pack } from '@ethersproject/solidity';
 import { Contract } from '@ethersproject/contracts';
 import { getNetwork } from '@ethersproject/networks';
 import { getDefaultProvider } from '@ethersproject/providers';
-import IUniswapV2Pair from '@nimbus/v2-core/build/IUniswapV2Pair.json';
+import IUniswapV2Pair from 'nimbus-swap-tn/v2-core/build/IUniswapV2Pair.json';
 
 var _SOLIDITY_TYPE_MAXIMA;
 var ChainId;
