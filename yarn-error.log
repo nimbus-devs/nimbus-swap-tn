@@ -1,0 +1,57 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn test
+
+PATH: 
+  /Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  12.20.2
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/boriskaborisenko/Desktop/nim-lib-npm/package.json: Unexpected token < in JSON at position 30
+      at JSON.parse (<anonymous>)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "nimbus-swap-tn",
+  <<<<<<< HEAD
+    "version": "1.0.15",
+  =======
+    "version": "1.0.12",
+    "description": "",
+  >>>>>>> parent of e27f22c... Update addresses
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "directories": {
+      "lib": "lib"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/nimbus-devs/nimbus-swap-tn.git"
+    },
+    "bugs": {
+      "url": "https://github.com/nimbus-devs/nimbus-swap-tn/issues"
+    },
+    "homepage": "https://github.com/nimbus-devs/nimbus-swap-tn#readme",
+    "description": ""
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
