@@ -1,11 +1,22 @@
 {
   "name": "nimbus-swap-tn",
   "version": "1.0.14",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimbus-devs/nimbus-swap-tn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nimbus-devs/nimbus-swap-tn/issues"
+  },
+  "homepage": "https://github.com/nimbus-devs/nimbus-swap-tn#readme",
+  "description": ""
 }
